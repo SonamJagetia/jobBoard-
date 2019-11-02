@@ -53,7 +53,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'devise', '~> 4.4.3'
+gem 'devise', '~> 4.7.1'
 gem 'bulma-rails', '~> 0.6.2'
 gem 'simple_form', '~> 3.5.1'
 gem 'gravatar_image_tag', github: 'mdeering/gravatar_image_tag'
