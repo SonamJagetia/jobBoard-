@@ -66,7 +66,7 @@ gem "figaro"
 
 
 group :development, :test do
-  gem 'better_errors', '~> 2.4'
+  gem 'better_errors', '~> 2.8'
   gem 'guard', '~> 2.14'
   gem 'guard-livereload', '~> 2.5'
 end
